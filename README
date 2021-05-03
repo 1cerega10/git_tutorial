@@ -1,3 +1,7 @@
 This is the Hello World example from the git tutorial.
+<<<<<<< HEAD
 (changed in original!)
 
+=======
+(Changed in the original and pushed to shared)
+>>>>>>> edcd94e40ef0e2f9127b787cffd882738c5c3d18
